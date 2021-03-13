@@ -1,0 +1,11 @@
+{
+  "name": "start-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/orbclouds/start-node.git",
+  "author": "orbclouds <orb@orbclouds.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "PORT=8000 node index.js"
+  }
+}
